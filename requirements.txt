@@ -1,4 +1,4 @@
 baidu_aip==2.2.18.0
 pywin32==227
-Pillow==7.0.0
+Pillow==9.0.1
 pypiwin32==223
